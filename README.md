@@ -18,7 +18,7 @@
 - Self-supervised likelihood estimation with energy guidance for anomaly segmentation in urban scenes (**AAAI** 2024) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30162) [[code]](https://github.com/yuanpengtu/SLEEG)
 
 ## Review
-- Concept Bottleneck Models (**ICML** 2020) [[paper]](https://arxiv.org/abs/2007.04612) [[code]](https://github.com/yewsiang/ConceptBottleneck)
+- Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]]([https://arxiv.org/abs/2007.04612](https://ieeexplore.ieee.org/document/10227352)) [[code]]
 
 ## Datasets
 <!-- <hr/> -->
