@@ -1,5 +1,5 @@
 # anomaly-event-detection
-## Preprints
+## Traffic Anomaly Detection(TAD)
 - Uncovering Unique Concept Vectors through Latent Space Decomposition [[paper]](https://arxiv.org/abs/2307.06913) 
 - Hierarchical Semantic Tree Concept Whitening for Interpretable Image Classification [[paper]](https://arxiv.org/abs/2307.04343) 
 - SHARCS: Shared Concept Space for Explainable Multimodal Learning [[paper]](https://arxiv.org/abs/2307.00316) 
@@ -11,7 +11,7 @@
 - Causal Proxy Models for Concept-Based Model Explanations [[paper]](https://arxiv.org/abs/2209.14279) [[code]](https://github.com/frankaging/Causal-Proxy-Model)
 - ConceptLab: Creative Generation using Diffusion Prior Constraints [[paper]](https://arxiv.org/abs/2308.02669) [[code]](https://github.com/kfirgoldberg/ConceptLab)
 
-## 2023
+## Traffic Anomaly Anticipation(TAA)
 - Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)
 - Probabilistic Concept Bottleneck Models (**ICML** 2023) [[paper]](https://arxiv.org/abs/2306.01574) [[code]](https://github.com/ejkim47/prob-cbm)
 - Text-To-Concept (and Back) via Cross-Model Alignment (**ICML** 2023) [[paper]](https://arxiv.org/abs/2305.06386)
