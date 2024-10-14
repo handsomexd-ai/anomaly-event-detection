@@ -10,13 +10,12 @@
 - An attention-guided multistream feature fusion network for localization of risky objects in driving videos (**T-ITS** 2022) [[paper]](https://arxiv.org/abs/2209.07922) [[code]](https://github.com/monjurulkarim/risky_object)
 
 ## Video Anomaly Detection(VAD)
-- Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2209.09056) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
-- ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2206.15049) [[code]](https://github.com/snap-stanford/zeroc)
-- Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2112.02290) [[code]](https://github.com/ml-research/xiconceptlearning)
-- Concept Learning for Interpretable Multi-Agent Reinforcement Learning (**CoRL** 2022) [[paper]](https://arxiv.org/abs/2302.12232)
+### 2024
+- Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.html) [[code]](https://github.com/ristea/aed-mae) 
 
 ## Image Anomaly Detection
-- Unsupervised Learning of Compositional Energy Concepts (**NeurIPS** 2021) [[paper]](https://arxiv.org/abs/2111.03042) [[code]](https://github.com/yilundu/comet)
+### 2024
+- Self-supervised likelihood estimation with energy guidance for anomaly segmentation in urban scenes (**AAAI** 2024) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30162) [[code]](https://github.com/yuanpengtu/SLEEG)
 
 ## Review
 - Concept Bottleneck Models (**ICML** 2020) [[paper]](https://arxiv.org/abs/2007.04612) [[code]](https://github.com/yewsiang/ConceptBottleneck)
