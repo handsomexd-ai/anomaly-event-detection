@@ -6,20 +6,8 @@
 - Unsupervised traffic accident detection in first-person videos (**IROS** 2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8967556) [[code]](https://github.com/MoonBlvd/tad-IROS2019)
 
 ## Traffic Anomaly Anticipation(TAA)
-- Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)
-- Probabilistic Concept Bottleneck Models (**ICML** 2023) [[paper]](https://arxiv.org/abs/2306.01574) [[code]](https://github.com/ejkim47/prob-cbm)
-- Text-To-Concept (and Back) via Cross-Model Alignment (**ICML** 2023) [[paper]](https://arxiv.org/abs/2305.06386)
-- Discover and Cure: Concept-aware Mitigation of Spurious Correlation (**ICML** 2023) [[paper]](https://arxiv.org/abs/2305.00650) [[code]](https://github.com/wuyxin/disc)
-- Interpretable Neural-Symbolic Concept Reasoning (**ICML** 2023) [[paper]](https://arxiv.org/abs/2304.14068) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
-- Cones: Concept Neurons in Diffusion Models for Customized Generation (**ICML** 2023) [[paper]](https://arxiv.org/abs/2303.05125) [[code]](https://github.com/johanan528/cones)
-- A Closer Look at the Intervention Procedure of Concept Bottleneck Models (**ICML** 2023) [[paper]](https://arxiv.org/abs/2302.14260) [[code]](https://github.com/ssbin4/closer-intervention-cbm)
-- Learning Bottleneck Concepts in Image Classification (**CVPR** 2023) [[paper]](https://github.com/wbw520/botcl) [[code]](https://arxiv.org/abs/2304.10131)
-- Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2303.17393) [[code]](https://github.com/tpcd/dccl)
-- Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2211.11158) [[code]](https://github.com/yueyang1996/labo)
-- Label-Free Concept Bottleneck Models (**ICLR** 2023) [[paper]](https://arxiv.org/abs/2304.06129) [[code]](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
-- Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2302.06072) 
-- Towards Robust Metrics for Concept Representation Evaluation (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2301.10367) 
-- Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2301.11911) [[code]](https://github.com/jvielhaben/mcd-xai)
+### 2022
+- An attention-guided multistream feature fusion network for localization of risky objects in driving videos (**T-ITS**) [[paper]](https://arxiv.org/abs/2209.07922) [[code]](https://github.com/monjurulkarim/risky_object)
 
 ## Video Anomaly Detection(VAD)
 - Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2209.09056) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
