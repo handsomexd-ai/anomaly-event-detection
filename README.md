@@ -1,4 +1,4 @@
-# anomaly-event-detection
+# Anomaly-Event-Detection
 ## Traffic Anomaly Detection(TAD)
 ### 2024
 - Uncovering Unique Concept Vectors through Latent Space Decomposition [[paper]](https://arxiv.org/abs/2307.06913) 
@@ -35,20 +35,11 @@
 - Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2112.02290) [[code]](https://github.com/ml-research/xiconceptlearning)
 - Concept Learning for Interpretable Multi-Agent Reinforcement Learning (**CoRL** 2022) [[paper]](https://arxiv.org/abs/2302.12232)
 
-## 2021
+## Image Anomaly Detection
 - Unsupervised Learning of Compositional Energy Concepts (**NeurIPS** 2021) [[paper]](https://arxiv.org/abs/2111.03042) [[code]](https://github.com/yilundu/comet)
 
-## 2020
+## Review
 - Concept Bottleneck Models (**ICML** 2020) [[paper]](https://arxiv.org/abs/2007.04612) [[code]](https://github.com/yewsiang/ConceptBottleneck)
-
-## 2017
-- ConceptNet 5.5: An Open Multilingual Graph of General Knowledge (**AAAI** 2017) [[paper]](https://arxiv.org/abs/1612.03975) [[code]](https://github.com/commonsense/conceptnet-numberbatch)
-
-## 2016
-- beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (**ICLR** 2016) [[paper]](https://arxiv.org/abs/1612.03975) [[code]](https://github.com/commonsense/conceptnet-numberbatch)
-
-## 2015
-- Human-level concept learning through probabilistic program induction (**Science** 2015) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl)
 
 <!-- <hr/> -->
 
