@@ -7,7 +7,7 @@
 
 ## Traffic Anomaly Anticipation(TAA)
 ### 2022
-- An attention-guided multistream feature fusion network for localization of risky objects in driving videos (**T-ITS**) [[paper]](https://arxiv.org/abs/2209.07922) [[code]](https://github.com/monjurulkarim/risky_object)
+- An attention-guided multistream feature fusion network for localization of risky objects in driving videos (**T-ITS** 2022) [[paper]](https://arxiv.org/abs/2209.07922) [[code]](https://github.com/monjurulkarim/risky_object)
 
 ## Video Anomaly Detection(VAD)
 - Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2209.09056) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
