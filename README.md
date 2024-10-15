@@ -3,6 +3,8 @@
 - [Traffic Anomaly Anticipation(TAA)](#traffic-anomaly-anticipationtaa)
 - [Video Anomaly Detection(VAD)](#video-anomaly-Detectionvad)
 - [Image Anomaly Detection](#Image-Anomaly-Detection)
+- [Review](#Review)
+- [Datasets](#Datasets)
 
 ## Traffic Anomaly Detection(TAD)
 ### 2024
