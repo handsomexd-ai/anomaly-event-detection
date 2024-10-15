@@ -8,7 +8,8 @@
 - Drama: Joint risk localization and captioning in driving (**WACV** 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.html)
 - DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos (**TPAMI** 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/9712446) [[code]](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
 ### 2022
-- Spatio-Temporal Feature Encoding for Traffic Accident Detection in VANET Environment (**TITS** 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9714213) [[code]]()
+- Spatio-Temporal Feature Encoding for Traffic Accident Detection in VANET Environment (**TITS** 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9714213)
+- Traffic Accident Detection via Self-Supervised Consistency Learning in Driving Scenarios (**TITS** 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9733965)
 ### 2020
 - Towards Anomaly Detection in Dashcam Videos (**IV** 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9304576)
 ### 2019
@@ -36,8 +37,21 @@
 - OoDIS: Anomaly Instance Segmentation Benchmark (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2406.11835) [[code]](https://github.com/kumuji/ugains)
 - Placing Objects in Context via Inpainting for Out-of-distribution Segmentation (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2402.16392) [[code]](https://github.com/naver/poc)
 - Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2404.17961) [[code]](https://github.com/zelongzeng/rwpm)
+- Segment Every Out-of-Distribution Object (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Segment_Every_Out-of-Distribution_Object_CVPR_2024_paper.html) [[code]](https://github.com/WenjieZhao1/S2M)
 ### 2023
 - Unmasking anomalies in road-scene segmentation (**ICCV ORAL** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Nandan_Unmasking_Anomalies_in_Road-Scene_Segmentation_ICCV_2023_paper.html) [[code]](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
+- On Advantages of Mask-level Recognition for Outlier-aware Segmentation (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Grcic_On_Advantages_of_Mask-Level_Recognition_for_Outlier-Aware_Segmentation_CVPRW_2023_paper.html)
+- Balanced Energy Regularization Loss for Out-of-distribution Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_Balanced_Energy_Regularization_Loss_for_Out-of-Distribution_Detection_CVPR_2023_paper.html)
+- Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation (**ICCV** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Residual_Pattern_Learning_for_Pixel-Wise_Out-of-Distribution_Detection_in_Semantic_Segmentation_ICCV_2023_paper.html) [[code]](https://github.com/yyliu01/RPL)
+- Image-Consistent Detection of Road Anomalies as Unpredictable Patches (**WACV** 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Vojir_Image-Consistent_Detection_of_Road_Anomalies_As_Unpredictable_Patches_WACV_2023_paper.html)
+- Anomaly-Aware Semantic Segmentation via Style-Aligned OoD Augmentation (**ICCV** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/BRAVO/html/Zhang_Anomaly-Aware_Semantic_Segmentation_via_Style-Aligned_OoD_Augmentation_ICCVW_2023_paper.html)
+- Unsupervised Road Anomaly Detection with Language Anchors (**ICRA** 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10160470) [[code]](https://github.com/TB5z035/URAD-LA.git)
+- Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection (**ICCV** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/html/Galesso_Far_Away_in_the_Deep_Space_Dense_Nearest-Neighbor-Based_Out-of-Distribution_Detection_ICCVW_2023_paper.html) 
+### 2022
+- Pixel-wise Energy-biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes (**ECCV** 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_15) [[code]](https://github.com/tianyu0207/PEBAL)
+### 2021
+- Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation (**ICCV** 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Jung_Standardized_Max_Logits_A_Simple_yet_Effective_Approach_for_Identifying_ICCV_2021_paper.html) [[code]](https://github.com/shjung13/Standardized-max-logits)
+- Pixel-wise Anomaly Detection in Complex Driving Scenes (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Di_Biase_Pixel-Wise_Anomaly_Detection_in_Complex_Driving_Scenes_CVPR_2021_paper.html) [[code]](https://github.com/giandbt/SynBoost)
 
 ## Review
 ### 2024
