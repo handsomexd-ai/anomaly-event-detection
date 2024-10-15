@@ -55,7 +55,7 @@
 
 ## Review
 ### 2024
-- Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]](https://ieeexplore.ieee.org/document/10227352))
+- Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]](https://ieeexplore.ieee.org/document/10227352)
 - Review of Accident Detection Methods Using Dashcam Videos for Autonomous Driving Vehicles (**TITS** 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10417772)
 
 ## Datasets
