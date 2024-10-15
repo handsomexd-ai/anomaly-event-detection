@@ -2,8 +2,15 @@
 ## Traffic Anomaly Detection(TAD)
 ### 2024
 - Trafficvlm: A controllable visual language model for traffic video captioning (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Dinh_TrafficVLM_A_Controllable_Visual_Language_Model_for_Traffic_Video_Captioning_CVPRW_2024_paper.html) [[code]](https://github.com/quangminhdinh/TrafficVLM)
+- What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon (**ECCV ORAL** 2024) [[paper]](https://arxiv.org/abs/2408.05562) [[code]](https://github.com/ut21/WSAD-Driving)
+- Memory-Augmented Online Video Anomaly Detection (**ICASSP** 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10447554) [[code]](https://github.com/IMPLabUniPr/movad/tree/movad_vad)
 ### 2023
-- Drama: Joint risk localization and captioning in driving (**WACV** 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.html) 
+- Drama: Joint risk localization and captioning in driving (**WACV** 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.html)
+- DoTA: Unsupervised Detection of Traffic Anomaly in Driving Videos (**TPAMI** 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/9712446) [[code]](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
+### 2022
+- Spatio-Temporal Feature Encoding for Traffic Accident Detection in VANET Environment (**TITS** 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9714213) [[code]]()
+### 2020
+- Towards Anomaly Detection in Dashcam Videos (**IV** 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9304576)
 ### 2019
 - Unsupervised traffic accident detection in first-person videos (**IROS** 2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8967556) [[code]](https://github.com/MoonBlvd/tad-IROS2019)
 
@@ -33,7 +40,9 @@
 - Unmasking anomalies in road-scene segmentation (**ICCV ORAL** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Nandan_Unmasking_Anomalies_in_Road-Scene_Segmentation_ICCV_2023_paper.html) [[code]](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 
 ## Review
-- Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]](https://ieeexplore.ieee.org/document/10227352)) 
+### 2024
+- Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]](https://ieeexplore.ieee.org/document/10227352))
+- Review of Accident Detection Methods Using Dashcam Videos for Autonomous Driving Vehicles (**TITS** 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10417772)
 
 ## Datasets
 <!-- <hr/> -->
