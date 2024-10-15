@@ -33,6 +33,8 @@
 - Holistic Representation Learning for Multitask Trajectory Anomaly Detection (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Stergiou_Holistic_Representation_Learning_for_Multitask_Trajectory_Anomaly_Detection_WACV_2024_paper.pdf) [[code]](https://github.com/alexandrosstergiou/TrajREC)
 - MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.html)
 - Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.html) [[code]](https://github.com/ristea/aed-mae)
+- Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.html)
+- Open-Vocabulary Video Anomaly Detection (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.html) 
 
 ### 2023
 - Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.html) [[code]](https://github.com/ktr-hubrt/UMIL)
@@ -42,7 +44,8 @@
 - Generating Anomalies for Video Anomaly Detection with Prompt-based Feature Mapping (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf)
 - Feature Prediction Diffusion Model for Video Anomaly Detection (**ICCV** 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 - Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Masked_Video_Distillation_Rethinking_Masked_Feature_Modeling_for_Self-Supervised_Video_CVPR_2023_paper.html) [[code]](https://github.com/ruiwang2021/mvd)
-- Learning Event-Relevant Factors for Video Anomaly Detection (**AAAI** 2023) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25334) 
+- Learning Event-Relevant Factors for Video Anomaly Detection (**AAAI** 2023) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25334)
+- Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Exploiting_Completeness_and_Uncertainty_of_Pseudo_Labels_for_Weakly_Supervised_CVPR_2023_paper.html)
 ### 2022
 - UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (**CVPR** 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.html) [[code]](https://github.com/lilygeorgescu/UBnormal)
 - A Background-Agnostic Framework With Adversarial Training for Abnormal Event Detection in Video (**TPAMI** 2022) [[paper]](https://ieeexplore.ieee.org/document/9410375) [[code]](https://github.com/lilygeorgescu/AED)
