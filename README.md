@@ -57,6 +57,16 @@
 ### 2024
 - Vision-Based Traffic Accident Detection and Anticipation: A Survey (**TCSVT** 2024) [[paper]](https://ieeexplore.ieee.org/document/10227352)
 - Review of Accident Detection Methods Using Dashcam Videos for Autonomous Driving Vehicles (**TITS** 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10417772)
+### 2023
+- Divide and Conquer in Video Anomaly Detection: A Comprehensive Review and New Approach [[paper]](https://arxiv.org/abs/2309.14622) [[code]](https://github.com/XiaoJian923/Divide-and-Conquer)
+- Analysis of anomaly detection in surveillance video: recent trends and future vision [[paper]](https://link.springer.com/article/10.1007/s11042-022-13954-1)
+- Deep Learning-Based Anomaly Detection in Video Surveillance: A Survey [[paper]](https://www.mdpi.com/1424-8220/23/11/5024)
+- Anomaly detection in surveillance videos: a thematic taxonomy of deep models, review and performance analysis [[paper]](https://www.mdpi.com/1424-8220/23/11/5024)
+- A comprehensive review on deep learning-based methods for video anomaly detection [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0262885620302109)
+### 2022
+- Anomaly Detection in Autonomous Driving: A Survey (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2204.07974)
+### 2021
+- A Comprehensive Survey of Anomaly Detection Algorithms [[paper]](https://link.springer.com/article/10.1007/s40745-021-00362-9)
 
 ## Datasets
 <!-- <hr/> -->
