@@ -105,6 +105,12 @@
 - A Comprehensive Survey of Anomaly Detection Algorithms [[paper]](https://link.springer.com/article/10.1007/s40745-021-00362-9)
 
 ## Datasets
+- Drama: Joint risk localization and captioning in driving [[datasets]](https://usa.honda-ri.com/drama)
+- ROL: Risky Object Localization (ROL) in a Driving Scene Dataset [[datasets]](https://github.com/monjurulkarim/rol_dataset)
+- CAP-DATA: Cognitive accident prediction in driving scenes: A multimodality benchmark [[datasets]](https://github.com/JWFanggit/LOTVS-CAP)
+- MM-AU: Abductive Ego-View Accident Video Understanding for Safe Driving Perception [[datasets]](https://github.com/jeffreychou777/LOTVS-MM-AU)
+- DoTA: When, Where, and What? A New Dataset for Anomaly Detection in Driving Videos [[datasets]](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
+
 <!-- <hr/> -->
 
 ### Contributing
