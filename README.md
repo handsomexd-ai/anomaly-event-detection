@@ -1,20 +1,8 @@
 # Anomaly-Event-Detection
 - [Traffic Anomaly Detection(TAD)](#traffic-anomaly-detectiontad)
-- [第二章 方法](#第二章-方法)
+- [Traffic Anomaly Anticipation(TAA)](#traffic-anomaly-anticipationtaa)
 - [第三章 实验](#第三章-实验)
 - [第四章 结论](#第四章-结论)
-
-# 第一章 简介
-这里是简介的内容...
-
-## 第二章 方法
-这里是方法的内容...
-
-### 第三章 实验
-这里是实验的内容...
-
-#### 第四章 结论
-这里是结论的内容...
 
 ## Traffic Anomaly Detection(TAD)
 ### 2024
