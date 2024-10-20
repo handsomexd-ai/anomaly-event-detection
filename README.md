@@ -8,13 +8,7 @@
 
 ## Traffic Anomaly Detection(TAD)
 ### 2024
-<details>
-  <summary>TrafficVLM: A controllable visual language model for traffic video captioning (CVPR 2024)</summary>
-
-**Paper**: [link](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Dinh_TrafficVLM_A_Controllable_Visual_Language_Model_for_Traffic_Video_Captioning_CVPRW_2024_paper.html)  
-**Code**: [link](https://github.com/quangminhdinh/TrafficVLM)
-
-</details>
+- Trafficvlm: A controllable visual language model for traffic video captioning (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Dinh_TrafficVLM_A_Controllable_Visual_Language_Model_for_Traffic_Video_Captioning_CVPRW_2024_paper.html) [[code]](https://github.com/quangminhdinh/TrafficVLM)
 - What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon (**ECCV oral** 2024) [[paper]](https://arxiv.org/abs/2408.05562) [[code]](https://github.com/ut21/WSAD-Driving)
 - Memory-Augmented Online Video Anomaly Detection (**ICASSP** 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10447554) [[code]](https://github.com/IMPLabUniPr/movad/tree/movad_vad)
 ### 2023
