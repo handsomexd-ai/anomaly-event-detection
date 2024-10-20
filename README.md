@@ -5,7 +5,12 @@
 - [Image Anomaly Detection](#Image-Anomaly-Detection)
 - [Review](#Review)
 - [Datasets](#Datasets)
+<details>
+  <summary>点击这里查看隐藏内容</summary>
 
+  这是隐藏的内容，只有在点击标题后才会显示。
+
+</details>
 ## Traffic Anomaly Detection(TAD)
 ### 2024
 - Trafficvlm: A controllable visual language model for traffic video captioning (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Dinh_TrafficVLM_A_Controllable_Visual_Language_Model_for_Traffic_Video_Captioning_CVPRW_2024_paper.html) [[code]](https://github.com/quangminhdinh/TrafficVLM)
