@@ -99,6 +99,7 @@
 - Deep Learning-Based Anomaly Detection in Video Surveillance: A Survey [[paper]](https://www.mdpi.com/1424-8220/23/11/5024)
 - Anomaly detection in surveillance videos: a thematic taxonomy of deep models, review and performance analysis [[paper]](https://www.mdpi.com/1424-8220/23/11/5024)
 - A comprehensive review on deep learning-based methods for video anomaly detection [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0262885620302109)
+- Review of Graph-Based Hazardous Event Detection Methods for Autonomous Driving Systems [[paper]](https://ieeexplore.ieee.org/abstract/document/10038646)
 ### 2022
 - Anomaly Detection in Autonomous Driving: A Survey (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2204.07974)
 ### 2021
